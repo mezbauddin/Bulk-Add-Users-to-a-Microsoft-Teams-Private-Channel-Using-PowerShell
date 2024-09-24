@@ -1,0 +1,1 @@
+# Bulk-Add-Users-to-a-Microsoft-Teams-Private-Channel-Using-PowerShell
